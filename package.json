@@ -1,0 +1,19 @@
+{
+  "name": "test_jsdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sair",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "docdash": "^1.0.3",
+    "gulp": "^4.0.0",
+    "gulp-jsdoc3": "^2.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
