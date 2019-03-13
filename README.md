@@ -135,4 +135,5 @@ export default class Aplication {
 ### 参考
 
 - [官方文档](http://usejsdoc.org/about-configuring-jsdoc.html)
+- [中文文档 - 脚本之家](http://shouce.jb51.net/jsdoc/index.html)
 - [JSDoc 配置使用概览](https://malcolmyu.github.io/malnote/2015/04/25/Introduction-of-Jsdoc/)
